@@ -21,5 +21,5 @@ const Home = () => {
         </>
     );
 }
-
+//Tela principal
 export default Home;
